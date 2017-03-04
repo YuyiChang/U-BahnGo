@@ -18,3 +18,8 @@ An imagination since summer 2015, which will come true during HackOH/IO summer.
 | Speed display: LED display  (Optional)      | 2	|
 | Device enclosure: cardboax		 |  2|
 
+
+# How the system works
+
+The system is mainly made up by several push buttons and a rotary encoder. The rotary encoder serves as the position sensor for traction handle of the train. The push buttons, varies in different sizes, are used in door control, cabin light, etc. Two led displays can be install on the control panel to display the current speed of the train.
+

@@ -71,7 +71,7 @@ void ReadEncoder()
       else {
         counter--;
       }
-      Serial.print(isFwd ? "FWD " : "BWD ");
+      //Serial.print(isFwd ? "FWD " : "BWD ");
       Serial.println(counter);
     }
     if (Press2 != Press)
